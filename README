@@ -5,14 +5,13 @@ This report is about BrightTV subscription data analyses. The data was collected
 Bright TV ‘s CEO has an objective to grow the company’s subscription base for this financial year. He has approached me to provide 
 insights that would assist CVM (Customer Value Management) team in meeting this year’s objective. The dataset was also provided which 
 contained information about user profiles and viewer transactions for Bright TV.
-My task is to  prepare a 20 min presentation that will cover the following topics:
-# Objectives
+
+# Objectives 
+My task is to  prepare a 20 min presentation that will cover the following topics: 
 Insights on user and usage trends of BrightTV. 
 What type of factors influence consumption? 
 What content would I recommend in increasing consumption on the days with low consumption? 
-What type of initiatives would I recommend to further grow bright TV ‘s User base. The  
-Times and dates given in the dataset are supplied in UTC and expected to be converted to SA time.
-Following the above instruction, I embarked on the journey to execute the analysis.
+What type of initiatives would I recommend to further grow bright TV ‘s User base. 
 
 Miro was used to map the data flow, from source to storage, including ETL processes, key calculations, 
 and insights, providing a clear visual blueprint of the data pipeline and analytics plan.
